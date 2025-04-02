@@ -1,4 +1,4 @@
-package ru.netology.ru.netology
+package ru.netology
 
 fun main(){
     println("First App!")
